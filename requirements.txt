@@ -6,6 +6,7 @@ dill==0.3.6
 distlib==0.3.6
 filelock==3.8.2
 flake8==6.0.0
+greenlet==2.0.1
 identify==2.5.9
 isort==5.10.1
 lazy-object-proxy==1.8.0
@@ -19,6 +20,7 @@ pycodestyle==2.10.0
 pyflakes==3.0.1
 pylint==2.15.8
 PyYAML==6.0
+SQLAlchemy==1.4.44
 toml==0.10.2
 tomli==2.0.1
 tomlkit==0.11.6
