@@ -2,3 +2,7 @@
 venv
 storage.db
 **/.pytest_cache
+"files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+}
